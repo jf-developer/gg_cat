@@ -1,0 +1,1971 @@
+{
+    "nav": [
+        {
+            "name": {
+                "id": "3",
+                "pt": "Entradas",
+                "en": "Starters"
+            }
+        },
+        {
+            "name": {
+                "id": "5",
+                "pt": "Pratos",
+                "en": "Plates"
+            }
+        },
+        {
+            "name": {
+                "id": "2",
+                "pt": "Travessas",
+                "en": "Platters"
+            }
+        },
+        {
+            "name": {
+                "id": "0",
+                "pt": "Jarros e Outros",
+                "en": "Glassware"
+            }
+        },
+        {
+            "name": {
+                "id": "4",
+                "pt": "Café e Chá",
+                "en": "Coffe & Tea"
+            }
+        },
+        {
+            "name": {
+                "id": "1",
+                "pt": "Decorativo",
+                "en": "Decorative"
+            }
+        }
+    ],
+    "products": {
+        "categories": [
+            {
+                "name": {
+                    "pt": "Jarros e outros",
+                    "en": "Glassware"
+                },
+                "id": "0",
+                "imagePath":"products/jarros_outros/",
+                "details": [
+                    {
+                        "title": {
+                            "pt": "Caneca",
+                            "en": "Pitcher"
+                        },
+                        "ref": "CAN001-AG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€22",
+                        "image": "jarros/CAN001-AG.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"10",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "28"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Caneca",
+                            "en": "Pitcher"
+                        },
+                        "ref": "CAN001-CG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€22",
+                        "image": "jarros/CAN001-CG.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"10",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "28"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Caneca",
+                            "en": "Pitcher"
+                        },
+                        "ref": "CAN201-AG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€37",
+                        "image": "jarros/CAN201-AG-lado.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"22",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "37"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Caneca",
+                            "en": "Pitcher"
+                        },
+                        "ref": "CAN101-CG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€17",
+                        "image": "jarros/CAN101-CG-lado1.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"13",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "18"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Tabuleiro de shots",
+                            "en": "Tray of shot glasses"
+                        },
+                        "ref": "TAB-QUA001-CG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€37",
+                        "image": "copos/TAB-QUA001-CG.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"5.5",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "6"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "18",
+                                "l2": "27",
+                                "h2": "3"
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+
+                    },
+                    {
+                        "title": {
+                            "pt": "Base para copos",
+                            "en": "Coasters"
+                        },
+                        "ref": "BAS-RED001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€5",
+                        "image": "bases/BAS-RED001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"10",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "1"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Base para copos",
+                            "en": "Coasters"
+                        },
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "ref": "BAS-RED001-CP",
+                        "price": "€5",
+                        "image": "bases/BAS-RED001-CP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"10",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "1"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Base para copos",
+                            "en": "Coasters"
+                        },
+                        "ref": "BAS-RED002-CP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€5",
+                        "image": "bases/BAS-RED002-CP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"10",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "1"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Base para copos",
+                            "en": "Coasters"
+                        },
+                        "ref": "BAS-RED003-CP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€5",
+                        "image": "bases/BAS-RED003-CP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"10",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "1"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Base para copos",
+                            "en": "Coasters"
+                        },
+                        "ref": "BAS-OCT001-CP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€5",
+                        "image": "bases/BAS-OCT001-CP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"11",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "1"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Base para copos",
+                            "en": "Coasters"
+                        },
+                        "ref": "BAS-OCT002-CP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€5",
+                        "image": "bases/BAS-OCT002-CP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"11",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "1"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "name": {
+                    "pt": "Decorativo",
+                    "en": "Decorative"
+                },
+                "id": "1",
+                "imagePath":"products/decorativo/",
+                "details": [
+                    {
+                        "title": {
+                            "pt": "Castiçal - 1 Vela",
+                            "en": "Candlestick - 1 Candle"
+                        },
+                        "ref": "CAST1-001-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€25",
+                        "image": "casticais/CAST1-001-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "",
+                                "l1": "",
+                                "h1": ""
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Castiçal - 2 Velas",
+                            "en": "Candlestick - 2 Candles"
+                        },
+                        "ref": "CAST2-001-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€22",
+                        "image": "casticais/CAST2-001-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "4",
+                                "l1": "23",
+                                "h1": "17"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Castiçal - 4 Velas",
+                            "en": "Candlestick - 4 Candles"
+                        },
+                        "ref": "CAST4-001-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€22",
+                        "image": "casticais/CAST4-001-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "4",
+                                "l1": "27",
+                                "h1": "18"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Jarra para flores",
+                            "en": "Flower vase"
+                        },
+                        "ref": "JAR-MAN001-CP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€13",
+                        "image": "jarras/DSCF0734_frente.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"8",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "14"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Jarra para flores",
+                            "en": "Flower vase"
+                        },
+                        "ref": "JAR-MAN001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€13",
+                        "image": "jarras/DSCF1016.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"8",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "14"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Jarra para flores - Estreita",
+                            "en": "Flower vase - Narrow"
+                        },
+                        "ref": "JAR-MAN001-AG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€17",
+                        "image": "jarras/DSCF1024_azul.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"(tbc)",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "(tbc)"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Jarra para flores - Estreita",
+                            "en": "Flower vase - Narrow"
+                        },
+                        "ref": "JAR-MAN001-CG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€17",
+                        "image": "jarras/DSCF1024_cor.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"(tbc)",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "(tbc)"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Jarra para flores - Media",
+                            "en": "Flower vase - Wide"
+                        },
+                        "ref": "JAR-ESP001-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€22",
+                        "image": "jarras/DSCF1027.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "11",
+                                "l1": "24",
+                                "h1": "22"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Jarra para flores - Media",
+                            "en": "Flower vase - Wide"
+                        },
+                        "ref": "JAR-ESP001-CM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€22",
+                        "image": "jarras/DSCF1026.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "11",
+                                "l1": "24",
+                                "h1": "22"
+                                    },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "name": {
+                    "pt": "Travessas",
+                    "en": "Platters"
+                },
+                "id": "2",
+                "imagePath":"products/travessas/",
+                "details": [
+                    {
+                        "title": {
+                            "pt": "Travessa pequena - Estreita",
+                            "en": "Small Platter - Narrow"
+                        },
+                        "ref": "TRAV-EST001-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€20",
+                        "image": "TRAV-EST001-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "12",
+                                "l1": "36",
+                                "h1": "3"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa media - Estreita",
+                            "en": "Medium Plattter - Narrow"
+                        },
+                        "ref": "TRAV-EST101-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€23",
+                        "image": "TRAV-EST101-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "14",
+                                "l1": "36",
+                                "h1": "2"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Grande - Estreita",
+                            "en": "Big Platter - Narrow"
+                        },
+                        "ref": "TRAV-EST201-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€25",
+                        "image": "TRAV-EST201-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "14",
+                                "l1": "43",
+                                "h1": "3"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Grande - Estreita",
+                            "en": "Big Platter - Narrow"
+                        },
+                        "ref": "TRAV-EST201-CM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€25",
+                        "image": "TRAV-EST201-CM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "14",
+                                "l1": "43",
+                                "h1": "3"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Grande Oval Funda",
+                            "en": "Big Oval Deep Platter"
+                        },
+                        "ref": "TRAV-OV001-CG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€50",
+                        "image": "TRAV-OV001-CG.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "33",
+                                "l1": "43",
+                                "h1": "6.5"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Grande Larga Funda c/ pegas",
+                            "en": "Big Wide Deep Platter w/ handle"
+                        },
+                        "ref": "TRAV-LAR001-AG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€35",
+                        "image": "TRAV-LAR001-AG.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "26",
+                                "l1": "34",
+                                "h1": "7"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Grande Larga Funda",
+                            "en": "Big Wide Deep Platter"
+                        },
+                        "ref": "TRAV-LAR002-AG",
+                         "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€35",
+                        "image": "TRAV-LAR002-AG.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "26",
+                                "l1": "34",
+                                "h1": "7"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Grande Funda",
+                            "en": "Big Wide Platter w/ handles"
+                        },
+                        "ref": "TRAV-LAR101-AG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€30",
+                        "image": "TRAV-LAR101-AG.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "19",
+                                "l1": "32",
+                                "h1": "4"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                       "title": {
+                            "pt": "Travessa Redonda - Grande",
+                            "en": "Big Round Platter"
+                        },
+                        "ref": "TRAV-RED001-AG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€27",
+                        "image": "TRAV-RED001-AG.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"28",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "5"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Redonda - Media",
+                            "en": "Medium Round Platter"
+                        },
+                        "ref": "TRAV-RED002-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€15",
+                        "image": "TRAV-RED002-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"15",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "5"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Redonda - Media",
+                            "en": "Medium Round Platter"
+                        },
+                        "ref": "TRAV-RED002-CP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€15",
+                        "image": "TRAV-RED002-CP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"15",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "5"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Oval Média c/ pegas",
+                            "en": "Medium Oval Platter w/ handles"
+                        },
+                        "ref": "TRAV-OV101-CM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€22",
+                        "image": "TRAV-OV101-CM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "18",
+                                "l1": "33",
+                                "h1": "6.5"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa Oval Média c/ pegas",
+                            "en": "Medium Oval Platter w/ handles"
+                        },
+                        "ref": "TRAV-OV102-CM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€22",
+                        "image": "TRAV-OV102-CM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "18",
+                                "l1": "33",
+                                "h1": "6.5"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "name": {
+                    "pt": "Entradas",
+                    "en": "Starters"
+                },
+                "id": "3",
+                "imagePath":"products/entradas/",
+                "details": [
+                    {
+                        "title": {
+                            "pt": "Cesto de Pão/Fruta",
+                            "en": "Bread/Fruit basket"
+                        },
+                        "ref": "CES001-CM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€27",
+                        "image": "CES001-CM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"18.5",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "8"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Prato de aperitivos",
+                            "en": "Appetizer plate"
+                        },
+                        "ref": "PRA-AP001-CM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€22",
+                        "image": "PRA-AP001-CM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"2",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "4"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Azeitoneira - Pequena",
+                            "en": "Olive dish - Small"
+                        },
+                        "ref": "AZE001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€8",
+                        "image": "AZE001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "14.5",
+                                "l1": "12",
+                                "h1": "4"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Azeitoneira - Grande",
+                            "en": "Olive dish - Big"
+                        },
+                        "ref": "AZE101-CP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€11",
+                        "image": "AZE101-CP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "15",
+                                "l1": "14",
+                                "h1": "4.5"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Tijela - Sopa/Sobremesa",
+                            "en": "Soup/Desert bowl"
+                        },
+                        "ref": "TIJ001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€11",
+                        "image": "TIJ001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"(tbc)",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "(tbc)"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Manteigueira",
+                            "en": "Butter dish"
+                        },
+                        "ref": "MAN001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€17",
+                        "image": "MAN001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "12",
+                                "l1": "15",
+                                "h1": "12"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Galheteiro",
+                            "en": "Cruet"
+                        },
+                        "ref": "GALH001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€27",
+                        "image": "GALH001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"8",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "9"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "16",
+                                "l2": "23",
+                                "h2": "1"
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa de acompanhamento",
+                            "en": "Side dish"
+                        },
+                        "ref": "TRAV001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€9",
+                        "image": "TRAV001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "10.5",
+                                "l1": "21",
+                                "h1": "2"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa de acompanhamento",
+                            "en": "Side Dish"
+                        },
+                        "ref": "TRAV101-CP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€12",
+                        "image": "TRAV101-CP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "8",
+                                "l1": "21",
+                                "h1": "2.5"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Travessa de acompanhamento",
+                            "en": "Side Dish"
+                        },
+                        "ref": "TRAV102-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€12",
+                        "image": "TRAV102-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"",
+                                "w1": "8",
+                                "l1": "21",
+                                "h1": "2.5"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "name": {
+                    "pt": "Cafe e Cha",
+                    "en": "Coffe & Tea"
+                },
+                "id": "4",
+                "imagePath":"products/cafe_cha/",
+                "details": [
+                    {
+                        "title": {
+                            "pt": "Bule",
+                            "en": "Teapot & Coffer server"
+                        },
+                        "ref": "BUL-CAFCH001-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€18",
+                        "image": "BUL-CAFCH001-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"20",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "14"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                                     }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Chávena de café c/ pires",
+                            "en": " Espresso cup w/ saucer"
+                        },
+                        "ref": "CHAV-CAF001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€10",
+                        "image": "CHAV-CAF001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"5",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "6"
+                                     },
+                            "dim2": {
+                                "dia2":"11",
+                                "w2": "",
+                                "l2": "",
+                                "h2": "n/a"
+                                     }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Chávena de café c/ pires - Ondulada",
+                            "en": " Espresso cup w/ saucer - Wavy"
+                        },
+                        "ref": "CHAV-CAF301-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€10",
+                        "image": "CHAV-CAF301-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"7",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "4.5"
+                                     },
+                            "dim2": {
+                                "dia2":"11",
+                                "w2": "",
+                                "l2": "",
+                                "h2": "n/a"
+                                     }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Chávena de chá c/ pires",
+                            "en": "Espresso cup w/ saucer"
+                        },
+                        "ref": "CHAV-CAF201-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€13",
+                        "image": "CHAV-CAF201-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"8.5",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "7"
+                                     },
+                            "dim2": {
+                                "dia2":"13.5",
+                                "w2": "",
+                                "l2": "",
+                                "h2": "n/a"
+                                     }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Leiteira - Pequena",
+                            "en": "Milk jug - Small"
+                        },
+                        "ref": "CAN-LEI001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€6",
+                        "image": "CAN-LEI001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"7",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "8"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                                     }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Leiteira - Pequena",
+                            "en": "Milk jug - Small"
+                        },
+                        "ref": "CAN-LEI101-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€8",
+                        "image": "CAN-LEI101-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"6",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "8"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                                     }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Açucareiro",
+                            "en": "Sugar bowl"
+                        },
+                        "ref": "ACU001-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€12",
+                        "image": "ACU001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"12",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "8"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                                     }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    }, 
+                    {
+                        "title": {
+                            "pt": "Açucareiro",
+                            "en": "Sugar bowl"
+                        },
+                        "ref": "ACU101-AP",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€13",
+                        "image": "ACU101-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"8",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "8"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "",
+                            "en": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "name": {
+                    "pt": "Pratos",
+                    "en": "Plates"
+                },
+                "id": "5",
+                "imagePath":"products/pratos/",
+                "details": [
+                    {
+                        "title": {
+                            "pt": "Prato liso",
+                            "en": "Plate - Plain edge"
+                        },
+                        "ref": "PRA-LIS001-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€27",
+                        "image": "PRA-LIS001-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"29",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "3"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "830",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Prato liso",
+                            "en": "Plate - Plain edge"
+                        },
+                        "ref": "PRA-LIS001-CM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€27",
+                        "image": "PRA-LIS001-CM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"29",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "3"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "830",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Prato de bicos",
+                            "en": "Plate - Spiky edge"
+                        },
+                        "ref": "PRA-BIC001-CM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€20",
+                        "image": "PRA-BIC001-CM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"22",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "6"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "360",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Prato de bicos",
+                            "en": "Plate - Spiky edge"
+                        },
+                        "ref": "PRA-BIC001-AM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€20",
+                        "image": "PRA-BIC001-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"22",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "6"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "360",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Prato de bicos",
+                            "en": "Plate - Spiky edge"
+                        },
+                        "ref": "PRA-BIC002-CM",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€20",
+                        "image": "PRA-BIC002-CM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"22",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "6"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "360",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Prato Rendilhado",
+                            "en": "Plate - Lace edge"
+                        },
+                        "ref": "PRA-REN001-AG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€47",
+                        "image": "PRA-REN001-AM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"38",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "--"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "1674",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Prato Rendilhado",
+                            "en": "Plate - Lace edge"
+                        },
+                        "ref": "PRA-REN001-CG",
+                        "description": {
+                            "pt": "",
+                            "en": ""
+                        },
+                        "price": "€47",
+                        "image": "PRA-REN001-CM.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"38",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "--"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "1674",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Prato de gomos",
+                            "en": "Plate - Scalloped Edge"
+                        },
+                        "ref": "PRA-GOM001-CG",
+                        "description": {
+                            "pt": "Tambem disponível em pequeno.",
+                            "en": "Also a ailable in small."
+                        },
+                        "price": "€37",
+                        "image": "PRA-GOM001-CG.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"29",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "8"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "1150",
+                            "en": ""
+                        }
+                    },
+                    {
+                        "title": {
+                            "pt": "Prato de gomos",
+                            "en": "Plate - Scalloped Edge"
+                        },
+                        "ref": "PRA-GOM001-AP",
+                        "description": {
+                            "pt": "Também disponível em grande.",
+                            "en": "Also available in big."
+                        },
+                        "price": "€22",
+                        "image": "PRA-GOM001-AP.jpg",
+                        "dimensions": {
+                            "dim1": {
+                                "dia1":"18",
+                                "w1": "",
+                                "l1": "",
+                                "h1": "6"
+                                     },
+                            "dim2": {
+                                "dia2":"",
+                                "w2": "",
+                                "l2": "",
+                                "h2": ""
+                            }
+                        },
+                        "weight": {
+                            "pt": "408",
+                            "en": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
